@@ -14,7 +14,7 @@
 // Defines Plugin directory for easy reference
 define( 'GIVEULTIMATEGOAL_DIR', plugin_dir_path( __FILE__ ) );
 define( 'GIVEULTIMATEGOAL_URL', plugin_dir_url( __FILE__ ) );
-define( 'GIVEULTIMATEGOAL_VIEWS_FOLDER_NAME', 'give_donorlist' );
+define( 'GIVEULTIMATEGOAL_VIEWS_FOLDER_NAME', 'give_ultimategoal' );
 
 // Checks if GIVE is active. 
 // If not, it bails with an Admin notice as to why. 
